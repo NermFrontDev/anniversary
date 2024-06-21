@@ -192,7 +192,7 @@ body {
     bottom: 30px;
     position: absolute;
     z-index: 3;
-    background: rgba(205, 143, 133, 0.7)
+    background: rgba(255, 149, 117, 0.8);
 }
 
 .image-rectangle {
